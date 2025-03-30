@@ -3,7 +3,7 @@ Particular destinantion analysis-costs per day, 2020 VS 2025
 Projekt zawiera dane dotyczące liczby turystów odwiedzających różne kraje w sezonie letnim w latach 2020 oraz prognozy na 2025 rok. Dodatkowo zawarta jest szacunkowa średnia cena dzienna pobytu w danym kraju (w euro).
 
 🗂 Zawartość
-turystyka_2020_2025.xlsx – plik Excel z uzupełnioną tabelą danych:
+Travel Analysis 1.xlsx – plik Excel z uzupełnioną tabelą danych:
 
 Country – nazwa kraju
 Season – sezon turystyczny (w tym przypadku „Lato”)
